@@ -22,4 +22,5 @@ This lab showcases my ability to:
 ---
 
 The full network protocol lab report and PoC video are included in this folder.
-
+[
+🎥 PoC Video: https://youtu.be/qOwAokhG8NI
