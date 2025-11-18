@@ -1,66 +1,43 @@
-# 🛡️ Automated vs Manual Penetration Testing — Comparative Analysis
+# 🛠️ Automated vs Manual Penetration Testing
 
 ## 📌 Overview
-This project provides a full **comparative analysis** of automated and manual penetration testing methodologies.  
-The objective was to evaluate strengths, limitations, accuracy, scalability, cost, and practical use cases for each testing approach.
+This project presents a comparative analysis between **automated** and **manual** penetration testing methodologies.  
+The objective was to evaluate the strengths, weaknesses, cost implications, and ideal use-cases of each method, ultimately demonstrating why a **hybrid penetration testing strategy** provides the strongest security posture.
 
-This report showcases my ability to:
-- Analyze cybersecurity methodologies at a professional level  
-- Compare two major penetration testing strategies  
-- Evaluate industry tools and testing frameworks  
-- Produce structured, research-supported documentation  
+This assignment showcases my ability to:
+
+- Evaluate penetration testing methodologies  
+- Compare accuracy, scalability, and depth of analysis  
+- Assess strengths and limitations of automated tools  
+- Analyze human-driven manual testing approaches  
+- Recommend an optimal hybrid testing model  
+- Communicate cybersecurity findings in a structured, professional format  
 
 ---
 
 ## 🧰 Tools & Technologies
-- **Automated Testing Tools:** Nessus, Burp Suite, Nmap, OpenVAS  
-- **Manual Testing Techniques:** business logic testing, workflow analysis, zero-day exploration  
-- **Hybrid Testing Models**  
-- **Comparative Research Frameworks**
+- **Automated Scanning Tools (e.g., Nessus, BurpSuite)**  
+- **Manual Penetration Testing Techniques**  
+- **Cybersecurity Research & Comparative Analysis**  
+- **PDF Report Writing & Visual Data Presentation**
 
 ---
 
-## 🗂️ Report Summary
-This analysis includes:
-- Complete comparison of automated vs manual testing  
-- Speed, efficiency, accuracy, and depth evaluation  
-- Cost and scalability considerations  
-- Use-case recommendations for organizations  
-- Charts and references to industry studies  
-
-Key insights:
-- Automated tools are fast and scalable  
-- Manual testing is critical for deep, context-aware assessments  
-- Organizations achieve strongest security with a hybrid model  
+## 📄 Included in This Folder
+- **Automated Vs Manual Penetration Testing.pdf**  
+  *(Full assignment report detailing the comparison and final recommendations.)*
 
 ---
 
-## 📝 Skills Demonstrated
-- Technical research and evaluation  
-- Understanding of automated tool capabilities  
-- Manual penetration testing logic  
-- Professional writing and analysis  
-- Ability to make strategic cybersecurity recommendations  
+## 🎯 Key Takeaways
+- Automated tools provide **speed, scalability, and routine scanning capability**  
+- Manual testing provides **depth, accuracy, and contextual understanding**  
+- A hybrid model ensures **stronger detection coverage and better long-term security planning**
 
 ---
 
-## 🔍 Key Findings
-- Automated tools generate false positives/negatives but excel at speed  
-- Manual testing uncovers complex vulnerabilities such as business logic flaws  
-- Cost varies significantly depending on approach  
-- A hybrid automated+manual model provides the strongest security posture  
+## 📝 Notes
+The PDF is large and image-based. GitHub may not render the PDF preview, but the file itself is valid and downloadable.
 
----
 
-## 🎯 Why This Project Matters
-Penetration testing is core to vulnerability management and security operations.  
-This project demonstrates:
-- Analytical depth across testing frameworks  
-- Readiness for roles involving assessments, pentesting, and security audits  
-- Ability to evaluate real-world testing strategies used in enterprise environments  
-
----
-
-## 📄 Supporting Documentation
-The full comparative analysis report is included in this folder.
 
