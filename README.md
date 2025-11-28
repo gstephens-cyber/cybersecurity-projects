@@ -1,7 +1,9 @@
 # Cybersecurity Projects Portfolio
 
 ## 🔐 Professional Statement  
-https://github.com/gstephens-cyber/cybersecurity-projects/blob/main/professional-statement.md
+
+[Click here to read my professional statement](./professional-statement.md)
+
 
 Welcome to my professional cybersecurity portfolio.  
 This repository showcases hands-on projects covering:
