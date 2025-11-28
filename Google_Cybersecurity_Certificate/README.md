@@ -28,6 +28,12 @@ This professional certificate covers foundational cybersecurity knowledge and ha
 This certificate demonstrates foundational cybersecurity knowledge and hands-on experience validated by Google.  
 It supports my path toward SOC Analyst and Security Operations roles, complementing my NAIT Cybersecurity diploma, IBM Cyber Analyst training, and ongoing networking labs.
 
-## Certificate
-The PDF version of my certificate is included in this folder:
-- **Google_Cybersecurity_Certificate.pdf**
+## Certificate & Verification
+
+**Verified Credential:**  
+https://coursera.org/share/76dae8bc7422dfeb14cd72e9033fd312
+
+**Issued To:** Gregory Stephens  
+**Issued By:** Google / Coursera  
+**Issued On:** November 28, 2025
+
