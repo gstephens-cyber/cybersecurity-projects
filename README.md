@@ -75,19 +75,45 @@ Case studies & incident reports
 
 These labs will be added with full documentation as they are completed:
 
-### **🔸 DMZ Firewall Design Lab**  
-- ACLs  
-- NAT  
-- Firewall rules  
-- Zone design  
-- Logging  
-- Screenshots + packet captures
+🔸 DMZ Firewall Design Lab
 
-### **🔸 Networking Labs** *(separate repo)*  
-Foundational network engineering work including VLANs, OSPF, ACLs, subnets, switching, routing, and enterprise network configuration.
+ACLs
 
-### **🔸 CTF Challenges (Beginner → Intermediate)**  
-Kali Linux, enumeration, flags, writeups, lessons learned.
+NAT
+
+Firewall policy design
+
+Zone segmentation
+
+Logging & monitoring
+
+Verification screenshots
+
+🔸 Networking Labs (separate repository)
+
+Foundational + advanced networking labs, including:
+
+VLANs
+
+OSPF
+
+ACLs
+
+Subnetting
+
+Layer 2 & Layer 3 security
+
+Enterprise network configurations
+
+🔸 CTF Challenges (Beginner → Intermediate)
+
+Kali Linux
+
+Enumeration
+
+Flags & writeups
+
+Lessons learned
 
 ---
 
