@@ -1,41 +1,29 @@
-🚨 SOC Lab – Detection, Analysis & Incident Response
+# 🚨 **SOC Lab – Security Operations, Detection & Incident Response**
 
-This folder contains my hands-on SOC (Security Operations Center) training labs, investigation workflows, SIEM exercises, log analysis, packet captures, and incident response write-ups.
+This folder contains my hands-on **SOC (Security Operations Center)** labs, SIEM investigations, log analysis work, packet captures, and incident response documentation.
 
-These labs demonstrate the practical skills required for:
+These labs demonstrate real Tier 1 / Tier 2 analyst capabilities, aligned with industry workflows and Security+ / Google / IBM Cybersecurity training.
 
-SOC Tier 1 / Junior Analyst
+---
 
-Incident Response Support
+## 📁 **Folder Structure**
 
-SIEM Monitoring & Log Triage
-
-Security Event Investigation
-
-Alert Classification
-
-Documentation & Reporting
-
-📁 Folder Structure
-
-Below is the recommended structure used for organizing SOC-related artifacts:
-
+```text
 SOC-Lab/
 │
 ├── siem-analysis/
-│   ├── log-investigations/
 │   ├── detection-rules/
-│   ├── dashboards/
+│   ├── log-investigations/
+│   └── dashboards/
 │
 ├── packet-analysis/
-│   ├── wireshark-captures/
 │   ├── pcaps/
-│   └── analysis-notes/
+│   └── wireshark-notes/
 │
 ├── windows-event-logs/
 │   ├── sysmon/
-│   ├── security-logs/
-│   └── mapped-events/
+│   ├── event-id-analysis/
+│   └── mapped-attack-techniques/
 │
 ├── incident-response/
 │   ├── IR-writeups/
@@ -43,158 +31,158 @@ SOC-Lab/
 │   ├── triage-notes/
 │   └── timelines/
 │
-├── screenshots/
-└── README.md
+└── screenshots/
+This is a scalable, professional SOC folder format used for analyst training and junior SOC roles.
 
-
-You can add folders as your labs grow — this structure is scalable and looks professional.
-
-🔎 What This SOC Lab Covers
+🔍 What This SOC Lab Covers
 1. SIEM Fundamentals
+Log ingestion and parsing
 
-Log ingestion
+Use-case creation
+
+Detection rule building
+
+SOC dashboards
 
 Event correlation
 
-Building detection rules
+Alert tuning
 
-Creating dashboards
+Tools practiced:
 
-Writing basic queries
+QRadar (IBM Certificate)
 
-Analyzing alerts
-
-Tools used:
-
-QRadar (from IBM program)
-
-Splunk (NAIT labs, simulated exercises)
+Splunk (simulated/NAIT labs)
 
 Open-source SIEM tools
 
 2. Log Analysis & Event Correlation
+Authentication anomalies
 
-Authentication failures
+RDP brute-force bursts
 
-Anomalous logins
+Suspicious PowerShell events
 
-Brute-force behavior
+Lateral movement patterns
 
-Process creation events
+File integrity monitoring
 
-Network connection logs
+Privilege escalation indicators
 
-File modifications
+MITRE ATT&CK mapping
 
-Mapped events to MITRE ATT&CK
+3. Packet Analysis (Wireshark & tcpdump)
+ARP spoof detection
 
-3. Packet Analysis
-
-Using Wireshark and tcpdump:
-
-ARP spoof attacks
-
-DNS queries
-
-Suspicious HTTP traffic
+DNS exfiltration patterns
 
 SMB enumeration
 
-Malware beaconing patterns
+HTTP credential leaks
 
-ICMP scans
+ICMP scanning
+
+TCP 3-way handshake anomalies
 
 4. Incident Response Workflows
+End-to-end IR practice including:
 
-Full lifecycle IR practice:
+Alert → triage
 
-Detection
+Verification
 
-Analysis
+Scope analysis
 
-Impact determination
+Impact assessment
 
 Evidence collection
 
-Timeline creation
+Timeline building
 
-Containment plan (simulated)
+Containment recommendations
 
-Documentation
+IR-style report writing
 
-All investigations include structured IR-style notes.
+All investigations include structured SOC/IR documentation.
 
 5. Threat Hunting
+Beginner → Intermediate threat hunting techniques:
 
-Beginner threat hunting methods:
+Failed login baselines
 
-Searching for failed login bursts
+Reviewing process execution anomalies
 
-Reviewing process execution spikes
+Detecting malicious PowerShell
 
-Identifying suspicious PowerShell commands
+Outbound beacon detections
 
-Hunting unusual outbound traffic
+Hunting rare parent-child process chains
 
-Baseline vs anomaly comparisons
+User behavior anomalies
 
-📄 Example Artifacts Included in This Folder
-
-(These will populate as you complete more labs)
-
-📊 SIEM dashboards
+📄 Artifacts Included
+This folder will be populated with:
 
 📝 Investigation notes
 
+📊 SIEM dashboards
+
 🔍 Detection queries
 
-🗂️ IR write-ups
+📡 Packet captures
 
-🖼 Screenshots from lab environments
+🖼 Screenshots
 
-📡 Packet captures and dissected flows
+📁 IR report templates
 
-🔐 MITRE ATT&CK mapping tables
+⏱ Timeline documentation
 
-🎯 Skills Demonstrated in This Lab
+🧩 MITRE mapping tables
 
-SOC monitoring & detection
+As additional SOC labs are completed (NAIT, IBM, Google, Security+ prep), they will be documented here.
 
-Alert triage
+🛡️ Skills Demonstrated
+SOC monitoring
 
 Log analysis
 
-Packet analysis (Wireshark)
+SIEM investigation
+
+Packet analysis
+
+Windows / Sysmon analysis
 
 Linux investigations
 
-Windows event log analysis
-
-SIEM rule creation
+Threat hunting
 
 Incident documentation
 
-Analytical thinking
+MITRE ATT&CK mapping
 
-Threat intelligence basics
+Evidence handling
 
-📚 Related Certifications Used in These Labs
+Analytical problem solving
 
-Google Cybersecurity Certificate
+Security+ core SOC domains
 
-IBM Cybersecurity Analyst Certificate
+🎓 Related Training
+Google Cybersecurity Professional Certificate
 
-NAIT Post-Diploma Cybersecurity Program
+IBM Cybersecurity Analyst Professional Certificate
 
-CompTIA Security+ (in progress – April 2026 target)
+NAIT Cybersecurity Post-Diploma
 
-These SOC labs integrate knowledge from multiple professional pathways.
+CompTIA Security+ (target April 2026)
+
+These labs reinforce real-world SOC workflows that align directly with these programs.
 
 📫 Contact
-
 Gregory Stephens
 📧 Email: gregstephens96@gmail.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/gregorystephens96
-
 🖥️ GitHub: https://github.com/gstephens-cyber
+
+
+Paste that into `SOC-Lab/README.md` and you’re good.
+::contentReference[oaicite:0]{index=0}
