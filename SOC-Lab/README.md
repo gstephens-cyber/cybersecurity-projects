@@ -1,188 +1,149 @@
 # 🚨 **SOC Lab – Security Operations, Detection & Incident Response**
 
-This folder contains my hands-on **SOC (Security Operations Center)** labs, SIEM investigations, log analysis work, packet captures, and incident response documentation.
+This folder contains my hands-on **SOC (Security Operations Center)** labs, SIEM investigations, log analysis exercises, packet captures, and incident response documentation.
 
-These labs demonstrate real Tier 1 / Tier 2 analyst capabilities, aligned with industry workflows and Security+ / Google / IBM Cybersecurity training.
+These labs demonstrate practical Tier 1 / Junior Analyst capabilities aligned with enterprise security workflows.
 
 ---
 
 ## 📁 **Folder Structure**
 
-```text
 SOC-Lab/
 │
 ├── siem-analysis/
-│   ├── detection-rules/
-│   ├── log-investigations/
-│   └── dashboards/
+│ ├── detection-rules/
+│ ├── log-investigations/
+│ └── dashboards/
 │
 ├── packet-analysis/
-│   ├── pcaps/
-│   └── wireshark-notes/
+│ ├── pcaps/
+│ └── wireshark-notes/
 │
 ├── windows-event-logs/
-│   ├── sysmon/
-│   ├── event-id-analysis/
-│   └── mapped-attack-techniques/
+│ ├── sysmon/
+│ ├── event-id-analysis/
+│ └── mapped-attack-techniques/
 │
 ├── incident-response/
-│   ├── IR-writeups/
-│   ├── evidence/
-│   ├── triage-notes/
-│   └── timelines/
+│ ├── IR-writeups/
+│ ├── evidence/
+│ ├── triage-notes/
+│ └── timelines/
 │
 └── screenshots/
-This is a scalable, professional SOC folder format used for analyst training and junior SOC roles.
 
-🔍 What This SOC Lab Covers
-1. SIEM Fundamentals
-Log ingestion and parsing
+yaml
+Copy code
+
+---
+
+## 🔍 **What This SOC Lab Covers**
+
+### **1. SIEM Fundamentals**
+- Log ingestion and parsing  
+- Use case creation  
+- Detection rule development  
+- Event correlation  
+- Alert triage  
+- SOC dashboard creation  
+
+**Tools practiced:**
+- QRadar  
+- Splunk  
+- Open-source SIEM tools  
+
+---
+
+### **2. Log Analysis & Event Correlation**
+- Authentication anomalies  
+- Suspicious PowerShell executions  
+- Event ID mapping (Windows)  
+- Privilege escalation indicators  
+- File integrity monitoring  
+- Failed login bursts  
+- Lateral movement patterns  
+- Mapped events to MITRE ATT&CK  
+
+---
+
+### **3. Packet Analysis (Wireshark / tcpdump)**
+- ARP spoof traffic patterns  
+- ICMP scanning attempts  
+- DNS tunneling / exfiltration  
+- SMB enumeration  
+- HTTP credential leaks  
+- Suspicious beaconing  
+
+---
+
+### **4. Incident Response Workflows**
+- Alert → Triage → Containment  
+- Event verification  
+- Scope & impact analysis  
+- Timeline creation  
+- Evidence collection  
+- Documentation of findings  
+- IR-style reporting  
+
+---
+
+### **5. Threat Hunting**
+- Baseline vs anomaly comparison  
+- Parent-child process hunting  
+- Outbound connection anomalies  
+- PowerShell abuse detection  
+- Rare processes and binaries  
+- Unusual authentication patterns  
+
+---
+
+## 📄 **Artifacts Included**
+
+This folder will include:
+
+- 📝 Investigation notes  
+- 📊 Dashboards (screenshots)  
+- 🔍 Detection queries  
+- 🧪 Testing evidence  
+- 📡 PCAPs  
+- 🖼 Screenshots  
+- 📁 IR reports  
+- ⏱ Timeline analysis  
+- 🧩 MITRE mapping tables  
+
+(Artifacts appear as labs are completed.)
+
+---
+
+## 🛡️ **Skills Demonstrated**
+
+- SOC monitoring  
+- Alert triage  
+- SIEM investigation  
+- Log analysis  
+- Packet analysis (Wireshark)  
+- Windows/Sysmon event tracking  
+- Linux security investigation  
+- Threat hunting  
+- MITRE ATT&CK mapping  
+- Digital evidence handling  
+- Incident documentation  
+- Analytical triage workflows  
+
+---
+
+## 🎓 **Training Supporting These Labs**
 
-Use-case creation
+- Google Cybersecurity Certificate  
+- IBM Cybersecurity Analyst Certificate  
+- NAIT Cybersecurity Post-Diploma  
+- CompTIA Security+ (April 2026 target)  
 
-Detection rule building
+---
 
-SOC dashboards
+## 📫 **Contact**
 
-Event correlation
-
-Alert tuning
-
-Tools practiced:
-
-QRadar (IBM Certificate)
-
-Splunk (simulated/NAIT labs)
-
-Open-source SIEM tools
-
-2. Log Analysis & Event Correlation
-Authentication anomalies
-
-RDP brute-force bursts
-
-Suspicious PowerShell events
-
-Lateral movement patterns
-
-File integrity monitoring
-
-Privilege escalation indicators
-
-MITRE ATT&CK mapping
-
-3. Packet Analysis (Wireshark & tcpdump)
-ARP spoof detection
-
-DNS exfiltration patterns
-
-SMB enumeration
-
-HTTP credential leaks
-
-ICMP scanning
-
-TCP 3-way handshake anomalies
-
-4. Incident Response Workflows
-End-to-end IR practice including:
-
-Alert → triage
-
-Verification
-
-Scope analysis
-
-Impact assessment
-
-Evidence collection
-
-Timeline building
-
-Containment recommendations
-
-IR-style report writing
-
-All investigations include structured SOC/IR documentation.
-
-5. Threat Hunting
-Beginner → Intermediate threat hunting techniques:
-
-Failed login baselines
-
-Reviewing process execution anomalies
-
-Detecting malicious PowerShell
-
-Outbound beacon detections
-
-Hunting rare parent-child process chains
-
-User behavior anomalies
-
-📄 Artifacts Included
-This folder will be populated with:
-
-📝 Investigation notes
-
-📊 SIEM dashboards
-
-🔍 Detection queries
-
-📡 Packet captures
-
-🖼 Screenshots
-
-📁 IR report templates
-
-⏱ Timeline documentation
-
-🧩 MITRE mapping tables
-
-As additional SOC labs are completed (NAIT, IBM, Google, Security+ prep), they will be documented here.
-
-🛡️ Skills Demonstrated
-SOC monitoring
-
-Log analysis
-
-SIEM investigation
-
-Packet analysis
-
-Windows / Sysmon analysis
-
-Linux investigations
-
-Threat hunting
-
-Incident documentation
-
-MITRE ATT&CK mapping
-
-Evidence handling
-
-Analytical problem solving
-
-Security+ core SOC domains
-
-🎓 Related Training
-Google Cybersecurity Professional Certificate
-
-IBM Cybersecurity Analyst Professional Certificate
-
-NAIT Cybersecurity Post-Diploma
-
-CompTIA Security+ (target April 2026)
-
-These labs reinforce real-world SOC workflows that align directly with these programs.
-
-📫 Contact
-Gregory Stephens
-📧 Email: gregstephens96@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/gregorystephens96
+**Gregory Stephens**  
+📧 Email: *gregstephens96@gmail.com*  
+🔗 LinkedIn: https://www.linkedin.com/in/gregorystephens96  
 🖥️ GitHub: https://github.com/gstephens-cyber
-
-
-Paste that into `SOC-Lab/README.md` and you’re good.
-::contentReference[oaicite:0]{index=0}
