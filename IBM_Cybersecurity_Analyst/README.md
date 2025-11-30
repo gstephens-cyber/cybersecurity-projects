@@ -1,176 +1,86 @@
-IBM Cybersecurity Analyst Professional Certificate
+# **IBM Cybersecurity Analyst Professional Certificate (Completed)**  
+**Issued:** November 19, 2025  
+**Duration:** ~4 months at ~10 hours/week  
+**Provider:** IBM / Coursera  
 
-This folder contains all documentation, labs, exercises, and deliverables completed as part of the IBM Cybersecurity Analyst Professional Certificate.
-This is a 14-course program covering SOC workflows, SIEM analysis, threat detection, digital forensics, system security, network defense, penetration testing fundamentals, and compliance.
+This folder documents the completion of the **IBM Cybersecurity Analyst Professional Certificate**, a full cybersecurity specialization aligned with SOC Analyst, Security Administrator, and Threat Analyst roles.
 
-🎓 Certificate Verification
+---
 
-You can verify the completion of this certificate here:
+## 🎓 **Certificate Verification**
 
-👉 Coursera Verified Link:
-https://coursera.org/share/2cca2ee0a0f9c229ac90911be213f778
+**Coursera Verified Certificate:**  
+https://coursera.org/share/2cca2ee0a0f9c229ac90911be213f778  
 
-👉 PDF Certificate (Uploaded):
-IBM_Cybersecurity_Analyst_Certificate.pdf
-(Add your PDF into this folder and GitHub will show it automatically.)
+**PDF Certificate ( included in this folder ):**  
+`IBM_Cybersecurity_Analyst_Certificate.pdf`
 
-📁 Contents
+---
 
-This folder is organized by module to reflect the structure of the full IBM program. Each section includes:
+# 📘 **Course Certificates Completed (All 14 Modules)**  
 
-Notes & documentation
+The full specialization consists of **14 courses**, all successfully completed:
 
-Lab outputs
+1. **Introduction to Cybersecurity Careers**  
+2. **Introduction to Cybersecurity Essentials**  
+3. **Introduction to Cybersecurity Tools & Cyberattacks**  
+4. **Operating Systems: Overview, Administration, and Security**  
+5. **Computer Networks and Network Security**  
+6. **Database Essentials and Vulnerabilities**  
+7. **Cybersecurity Architecture**  
+8. **Cybersecurity Compliance Frameworks, Standards & Regulations**  
+9. **Penetration Testing, Threat Hunting, and Cryptography**  
+10. **Incident Response and Digital Forensics**  
+11. **Cybersecurity Case Studies and Capstone Project**  
+12. **Cybersecurity Assessment: CompTIA Security+ & CySA+ Review**  
+13. **Generative AI: Boost Your Cybersecurity Career**  
+14. **Cybersecurity Job Search, Resume, and Interview Preparation**
 
-Screenshots
+---
 
-Case studies
+# 🛡️ **Skills & Domains Covered**
 
-Commands used
+The IBM program builds competency in:
 
-Knowledge summaries
+- SOC workflows & SIEM fundamentals  
+- Log analysis and detection strategies  
+- Incident response and digital forensics  
+- Operating system administration & security  
+- Network security principles  
+- Penetration testing fundamentals  
+- Threat intelligence & MITRE ATT&CK  
+- Identity, access, and compliance frameworks  
+- Cryptography basics  
+- Vulnerability management  
+- Reporting & documentation  
 
-📘 Program Breakdown
+---
 
-Below is the index of the IBM Cybersecurity Analyst modules.
+# 🗂️ **Folder Purpose**
 
-1. Introduction to Cybersecurity Tools & Cyber Attacks
+Unlike your networking or firewall labs, this folder is **not** a lab repository.  
+It serves as an academic credential record containing:
 
-Overview of attacks, threats, and vulnerabilities
+- Your verified certificate link  
+- Your PDF certificate  
+- A breakdown of all 14 IBM courses  
+- A summary of the skills gained  
 
-Cybersecurity roles & frameworks
+This makes your GitHub portfolio complete and employer-ready.
 
-Linux, Windows, and networking fundamentals
+---
 
-2. Cybersecurity Roles, Processes & Operating System Security
+# 📫 **Contact**
 
-File systems
+**Gregory Stephens**  
+📧 Email: **gregstephens96@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/gregorystephens96**  
+🖥️ GitHub: **https://github.com/gstephens-cyber**
 
-Permissions
+---
 
-Hardening
+# ✔ **Notes**
 
-Patch management
+This IBM certification reinforces your NAIT training, Google cybersecurity certificate, and Security+ preparation — strengthening your readiness for SOC, Security Administrator, and Network Defense roles.
 
-System monitoring
-
-3. Cybersecurity Compliance Frameworks & System Administration
-
-NIST CSF
-
-ISO 27001
-
-CIS Controls
-
-Compliance reporting
-
-Administrative security policies
-
-4. Network Security & Database Vulnerabilities
-
-OSI/ TCP-IP model
-
-Network scanning
-
-Sniffing & packet inspection
-
-SQL injection basics
-
-Database misconfigurations
-
-5. Penetration Testing, Incident Response & Forensics
-
-Enumeration
-
-Exploits (introductory)
-
-Malware basics
-
-Forensic triage
-
-Chain of custody
-
-Evidence handling
-
-6. Cyber Threat Intelligence
-
-Threat modeling
-
-MITRE ATT&CK basics
-
-Indicators of compromise
-
-Detection strategies
-
-Attack lifecycle
-
-7. Digital Forensics Fundamentals
-
-Disk analysis
-
-Memory analysis basics
-
-Windows artifacts
-
-Log correlation
-
-8. SIEM Tools & SOC Fundamentals
-
-SIEM dashboards
-
-Log ingestion & parsing
-
-Alert triage
-
-Use case creation
-
-Event correlation
-
-9. Applied Projects & Case Studies
-
-This folder will contain:
-
-Case investigation write-ups
-
-Packet captures
-
-Screenshots
-
-Summary reports
-
-Your IBM capstone-style labs
-
-🗂️ Folder Structure
-
-Your folder will eventually look like this:
-
-IBM_Cybersecurity_Analyst/
-│
-├── certificate/
-│   └── IBM_Cybersecurity_Analyst_Certificate.pdf
-│
-├── module-01-tools-attacks/
-├── module-02-roles-os-security/
-├── module-03-compliance-admin/
-├── module-04-network-database-security/
-├── module-05-pentest-ir-forensics/
-├── module-06-threat-intelligence/
-├── module-07-digital-forensics/
-├── module-08-siem-soc-fundamentals/
-└── module-09-case-studies/
-
-
-(I can generate each module README if you want.)
-
-📫 Contact
-
-Gregory Stephens
-📧 Email: gregstephens96@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/gregorystephens96
-
-🖥️ GitHub: https://github.com/gstephens-cyber
-
-✔ Notes
-
-This IBM certificate contributes to my SOC, DFIR, and network security skill set. It supports my progression toward Security+, my NAIT Cybersecurity Post-Diploma Certificate, and my move into SOC Analyst / Security Admin / Network Security roles.
+---
