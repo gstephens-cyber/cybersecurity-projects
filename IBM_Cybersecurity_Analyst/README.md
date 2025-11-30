@@ -10,7 +10,8 @@ This folder documents the completion of the **IBM Cybersecurity Analyst Professi
 ## 🎓 **Certificate Verification**
 
 **Coursera Verified Certificate:**  
-https://coursera.org/share/2cca2ee0a0f9c229ac90911be213f778  
+➡️ [View Certificate](https://coursera.org/share/2cca2ee0a0f9c229ac90911be213f778)
+
 
 **PDF Certificate ( included in this folder ):**  
 `IBM_Cybersecurity_Analyst_Certificate.pdf`
