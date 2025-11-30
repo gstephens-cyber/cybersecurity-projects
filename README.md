@@ -51,23 +51,23 @@ Folder: /IBM_Cybersecurity_Analyst/
 
 Includes projects and documentation from the IBM Cybersecurity Analyst Professional Certificate, covering:
 
-SIEM log analysis
+* SIEM log analysis
 
-SOC workflows
+* SOC workflows
 
-Network monitoring
+* Network monitoring
 
-Digital forensics fundamentals
+* Digital forensics fundamentals
 
-Threat modeling
+* Threat modeling
 
-Compliance investigations
+* Compliance investigations
 
-Linux system security
+* Linux system security
 
-Packet analysis
+* Packet analysis
 
-Case studies & incident reports
+* Case studies & incident reports
 
 ---
 
@@ -77,43 +77,43 @@ These labs will be added with full documentation as they are completed:
 
 🔸 DMZ Firewall Design Lab
 
-ACLs
+* ACLs
 
-NAT
+* NAT
 
-Firewall policy design
+* Firewall policy design
 
-Zone segmentation
+* Zone segmentation
 
-Logging & monitoring
+* Logging & monitoring
 
-Verification screenshots
+* Verification screenshots
 
 🔸 Networking Labs (separate repository)
 
 Foundational + advanced networking labs, including:
 
-VLANs
+* VLANs
 
-OSPF
+* OSPF
 
-ACLs
+* ACLs
 
-Subnetting
+* Subnetting
 
-Layer 2 & Layer 3 security
+* Layer 2 & Layer 3 security
 
-Enterprise network configurations
+* Enterprise network configurations
 
 🔸 CTF Challenges (Beginner → Intermediate)
 
-Kali Linux
+* Kali Linux
 
-Enumeration
+* Enumeration
 
-Flags & writeups
+* Flags & writeups
 
-Lessons learned
+* Lessons learned
 
 ---
 
