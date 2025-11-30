@@ -47,9 +47,27 @@ Completed capstone, case studies, reports, and hands-on exercises from Google’
 ---
 
 ## **5. IBM Cybersecurity Analyst Program (In Progress)**  
-**Folder:** `/Master-Track-ASU/` *(will be renamed to IBM folder)*  
-Contains labs and documentation being completed as part of the IBM Cybersecurity Analyst Professional Certificate.  
-Includes SIEM analysis, threat modeling, forensic techniques, and network monitoring.
+Folder: /IBM_Cybersecurity_Analyst/
+
+Includes projects and documentation from the IBM Cybersecurity Analyst Professional Certificate, covering:
+
+SIEM log analysis
+
+SOC workflows
+
+Network monitoring
+
+Digital forensics fundamentals
+
+Threat modeling
+
+Compliance investigations
+
+Linux system security
+
+Packet analysis
+
+Case studies & incident reports
 
 ---
 
