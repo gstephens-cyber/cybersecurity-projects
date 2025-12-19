@@ -44,26 +44,6 @@ Includes methodology, findings, screenshots, and consultant-style reporting stru
 Professional certifications are documented here:  
 ➡️ https://github.com/gstephens-cyber/cybersecurity-certifications
 
-Includes projects and documentation from the IBM Cybersecurity Analyst Professional Certificate, covering:
-
-* SIEM log analysis
-
-* SOC workflows
-
-* Network monitoring
-
-* Digital forensics fundamentals
-
-* Threat modeling
-
-* Compliance investigations
-
-* Linux system security
-
-* Packet analysis
-
-* Case studies & incident reports
-
 ---
 
 # ⏳ Upcoming Projects (Currently Being Built)
