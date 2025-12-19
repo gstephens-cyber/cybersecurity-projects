@@ -40,14 +40,9 @@ Includes methodology, findings, screenshots, and consultant-style reporting stru
 
 ---
 
-## **4. Google Cybersecurity Certificate**  
-**Folder:** `/Google_Cybersecurity_Certificate/`  
-Completed capstone, case studies, reports, and hands-on exercises from Google’s Cybersecurity Professional Certificate.
-
----
-
-## **5. IBM Cybersecurity Analyst Program (In Progress)**  
-Folder: /IBM_Cybersecurity_Analyst/
+## Certifications
+Professional certifications are documented here:  
+➡️ https://github.com/gstephens-cyber/cybersecurity-certifications
 
 Includes projects and documentation from the IBM Cybersecurity Analyst Professional Certificate, covering:
 
